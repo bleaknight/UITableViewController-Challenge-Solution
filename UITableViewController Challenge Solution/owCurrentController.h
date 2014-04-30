@@ -1,5 +1,5 @@
 //
-//  owViewController.h
+//  owCurrentController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Juan Asher on 30/04/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface owViewController : UIViewController
+@interface owCurrentController : UITableViewController
 
 @end
